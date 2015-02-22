@@ -85,20 +85,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="prob9_Special_Pythagorean_Triplet.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="prob9_Special_Pythagorean_Triplet.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python3/prob9_Special_Pythagorean_Triplet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.6263158" vertical-offset="0" max-vertical-offset="570">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="prob10_Summation_of_Primes.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="prob10_Summation_of_Primes.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python3/prob10_Summation_of_Primes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34385964" vertical-offset="42" max-vertical-offset="612">
+            <state vertical-scroll-proportion="0.0" vertical-offset="42" max-vertical-offset="612">
               <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
               <folding />
             </state>
@@ -737,14 +737,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python3/prob9_Special_Pythagorean_Triplet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python3/prob3_Largest_Prime_Factor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
@@ -763,8 +755,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python3/prob10_Summation_of_Primes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34385964" vertical-offset="42" max-vertical-offset="612">
+        <state vertical-scroll-proportion="0.0" vertical-offset="42" max-vertical-offset="612">
           <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3/prob9_Special_Pythagorean_Triplet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6263158" vertical-offset="0" max-vertical-offset="570">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
           <folding />
         </state>
       </provider>
