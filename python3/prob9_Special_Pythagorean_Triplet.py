@@ -14,7 +14,7 @@ def pythagorean_triple(summation):
     for a in range(1, summation):
         for b in range(a+1, summation-a):
             c=summation-a-b # a+b+c =1000
-            if a**2+b**2==c**2: 
+            if a**2+b**2==c**2:
                 return a*b*c
 
 print(pythagorean_triple(1000))
