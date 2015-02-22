@@ -88,8 +88,8 @@
       <file leaf-file-name="prob9_Special_Pythagorean_Triplet.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python3/prob9_Special_Pythagorean_Triplet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6263158" vertical-offset="0" max-vertical-offset="570">
-              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.68596494" vertical-offset="0" max-vertical-offset="570">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -149,8 +149,8 @@
         <option value="$PROJECT_DIR$/python3/prob6_Sum_Square_Difference.py" />
         <option value="$PROJECT_DIR$/python3/prob7_10001st_Prime.py" />
         <option value="$PROJECT_DIR$/python3/prob8_Largest_Product_in_a_Series.py" />
-        <option value="$PROJECT_DIR$/python3/prob9_Special_Pythagorean_Triplet.py" />
         <option value="$PROJECT_DIR$/python3/prob10_Summation_of_Primes.py" />
+        <option value="$PROJECT_DIR$/python3/prob9_Special_Pythagorean_Triplet.py" />
       </list>
     </option>
   </component>
@@ -763,8 +763,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python3/prob9_Special_Pythagorean_Triplet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6263158" vertical-offset="0" max-vertical-offset="570">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.68596494" vertical-offset="0" max-vertical-offset="570">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>

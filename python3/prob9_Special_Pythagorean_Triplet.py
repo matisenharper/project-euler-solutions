@@ -20,3 +20,4 @@ def pythagorean_triple(summation):
 print(pythagorean_triple(1000))
 
 #Solution: 31875000
+
